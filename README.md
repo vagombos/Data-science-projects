@@ -47,8 +47,9 @@ The data package downloaded includes the following files:
 ### Results:  
 - Participants showed more activity/usage during the middle of the week (e.g., Tuesday, Wednesday, Thursday were highest) than on the weekends (Saturday and Sunday were lowest). 
 
+	![Day_of_Week_Activity_BarChart](DayOfWeekActivityBarChart.PNG)
 
-- Although there was no correlation between Total Minutes of Activity and Calories burned across all participants, those participants that fell into the lowest quartile of calories burned appeared to have the most amount of sedentary time while participants in the highest quartile of calories burnedhad the most amount of very active time logged. 
+- Although there was no correlation between Total Minutes of Activity and Calories burned across all participants, those participants that fell into the lowest quartile of calories burned appeared to have the most amount of sedentary time while participants in the highest quartile of calories burned had the most amount of very active time logged. 
 
 	![Stacked_Bars_CaloriesBurned_and_Activity_Intensities](StackedBarsCaloriesQuartiles.PNG)
 	
@@ -56,9 +57,9 @@ The data package downloaded includes the following files:
 
 	![Scatterplot_VA and Calories](Scatterplot_VAandCalories.PNG)
 
-- 23% of users did not track any sleep data during this time period; Of those that did track sleep, only 3 did for every day (87% only partially tracked their sleep data, with an average of 17 days of sleep data collected for all participants. 
+- 23% of users did not track any sleep data during this time period; Of those that did track sleep, only 3 (10%) did for every day; 20 (67%) only partially tracked their sleep data, with an average of 17 days of sleep data collected for all participants. 
 
-
+	![Sleep_Tracking_Pie_Chart](SleepTrackingPieChart.PNG)
 
 ### Conclusions and Recommendations:  
 - **Takeaway #1**--_Participants use their wearable health device more in the middle of the week than on the weekends._ This may either mean that they are more physically active on those days, or they are logging their activity more. A recommendation for a marketing strategy is to emphasize more use of devices for weekend activities, or suggest ways to increase activity on weekends.  
