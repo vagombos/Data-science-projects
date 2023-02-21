@@ -1,5 +1,6 @@
 # Google Data Analytics Cert Capstone Project (Excel solution version)  
-## Case Study 2 - Wellness Technology Trends  
+### [Case Study 2 - Wellness Technology Trends](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf) 
+---
 ### Statement of business task and research question:
 * Identify relevant trends in wearable health tracking device usage, and make recommendations to influence company marketing strategy. 
 * More specifically, where do people have "dips" in usage of these devices, associated with lower use? Recommendations therefore can reflect strategies that address these factors to increase wearable health tracking devices.   
@@ -35,7 +36,7 @@ The data package downloaded includes the following files:
 4. TotalTimeInBed from sleepDay data was added as a new column via VLOOKUP to the dailyActivity sheet. There were 23 out of the 30 Ss (77%) that also recorded sleep data. To ensure that a final measure of total activity in minutes only captures usage during waking hours, TotalTimeInBed was subtracted from Total Minutes Activity(1) to produce final measure Total Minutes Activity(2)
 5. Day_of_Week derived column based on ActivityDate
 6. Calorie Quartile Group created by assigning each participant by the total number of calories.  
-	- Complete Excel file can be found here: 
+	- Complete Excel file can be found here: ![CapstoneExcelSolution_Daily_Usage_Factors.xlsx](CapstoneExcelSolution_Daily_Usage_Factors.xlsx)
 	- The Activity_clean worksheet has the final data source; Pivots worksheet has the series of pivots and charts generated in Excel for the analyses
 
 
