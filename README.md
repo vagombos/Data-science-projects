@@ -1,5 +1,5 @@
 # Google Data Analytics Cert Capstone Project (Excel solution version)  
-### [Case Study 2 - Wellness Technology Trends](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf) 
+### [Case Study 2 - Wellness Technology Trends](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Images/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf) 
 ---
 ### Statement of business task and research question:
 * Identify relevant trends in wearable health tracking device usage, and make recommendations to influence company marketing strategy. 
@@ -12,7 +12,7 @@
 The data package downloaded includes the following files: 
 
 **Daily Data**  
-  [dailyActivity_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/dailyActivity_merged.csv), dailyCalories_merged.csv, dailyIntensities_merged.csv, dailySteps_merged.csv 
+  [dailyActivity_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Data/dailyActivity_merged.csv), dailyCalories_merged.csv, dailyIntensities_merged.csv, dailySteps_merged.csv 
       
   **Heart Rate Data**  
     heartrate_seconds_merged.csv  
@@ -24,7 +24,7 @@ The data package downloaded includes the following files:
   minuteCaloriesNarrow_merged.csv, minuteCaloriesWide_merged.csv, minuteIntensitiesNarrow_merged.csv, minuteIntensitiesWide_merged.csv,         minuteMETsNarrow_merged.csv, minuteSleep_merged.csv,minuteStepsNarrow_merged.csv, minuteStepsWide_merged.csv  
       
   **Sleep Data**  
-  [sleepDay_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/sleepDay_merged.csv)   
+  [sleepDay_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Data/sleepDay_merged.csv)   
       
   **Weight Data**  
   weightLogInfo_merged.csv  
