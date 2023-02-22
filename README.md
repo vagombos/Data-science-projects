@@ -1,5 +1,5 @@
 # Google Data Analytics Cert Capstone Project (Excel solution version)  
-### [Case Study 2 - Wellness Technology Trends](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf) 
+### [Case Study 2 - Wellness Technology Trends](Images/Case-Study-2-_-How-can-a-wellness-technology-company-play-it-smart.pdf) 
 ---
 ### Statement of business task and research question:
 * Identify relevant trends in wearable health tracking device usage, and make recommendations to influence company marketing strategy. 
@@ -12,7 +12,7 @@
 The data package downloaded includes the following files: 
 
 **Daily Data**  
-  [dailyActivity_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/dailyActivity_merged.csv), dailyCalories_merged.csv, dailyIntensities_merged.csv, dailySteps_merged.csv 
+  [dailyActivity_merged.csv](Data/dailyActivity_merged.csv), dailyCalories_merged.csv, dailyIntensities_merged.csv, dailySteps_merged.csv 
       
   **Heart Rate Data**  
     heartrate_seconds_merged.csv  
@@ -24,7 +24,7 @@ The data package downloaded includes the following files:
   minuteCaloriesNarrow_merged.csv, minuteCaloriesWide_merged.csv, minuteIntensitiesNarrow_merged.csv, minuteIntensitiesWide_merged.csv,         minuteMETsNarrow_merged.csv, minuteSleep_merged.csv,minuteStepsNarrow_merged.csv, minuteStepsWide_merged.csv  
       
   **Sleep Data**  
-  [sleepDay_merged.csv](https://github.com/vagombos/vagombos_Google_Capstone_Excel-only-version/blob/main/sleepDay_merged.csv)   
+  [sleepDay_merged.csv](Data/sleepDay_merged.csv)   
       
   **Weight Data**  
   weightLogInfo_merged.csv  
@@ -48,19 +48,19 @@ The data package downloaded includes the following files:
 ### Results:  
 - Participants showed more activity/usage during the middle of the week (e.g., Tuesday, Wednesday, Thursday were highest) than on the weekends (Saturday and Sunday were lowest). 
 
-	![Day_of_Week_Activity_BarChart](DayOfWeekActivityBarChart.PNG)
+	![Day_of_Week_Activity_BarChart](Images/DayOfWeekActivityBarChart.PNG)
 
 - Although there was no correlation between Total Minutes of Activity and Calories burned across all participants, those participants that fell into the lowest quartile of calories burned appeared to have the most amount of sedentary time while participants in the highest quartile of calories burned had the most amount of very active time logged. 
 
-	![Stacked_Bars_CaloriesBurned_and_Activity_Intensities](StackedBarsCaloriesQuartiles.PNG)
+	![Stacked_Bars_CaloriesBurned_and_Activity_Intensities](Images/StackedBarsCaloriesQuartiles.PNG)
 	
 - Further, when Very Active Time was correlated with Calories Burned, there was a significant moderate relationship.
 
-	![Scatterplot_VA and Calories](Scatterplot_VAandCalories.PNG)
+	![Scatterplot_VA and Calories](Images/Scatterplot_VAandCalories.PNG)
 
 - 23% of users did not track any sleep data during this time period; Of those that did track sleep, only 3 (10%) did for every day; 20 (67%) only partially tracked their sleep data, with an average of 17 days of sleep data collected for all participants. 
 
-	![Sleep_Tracking_Pie_Chart](SleepTrackingPieChart.PNG)
+	![Sleep_Tracking_Pie_Chart](Images/SleepTrackingPieChart.PNG)
 
 ### Conclusions and Recommendations:  
 - **Takeaway #1**--_Participants use their wearable health device more in the middle of the week than on the weekends._ This may either mean that they are more physically active on those days, or they are logging their activity more. A recommendation for a marketing strategy is to emphasize more use of devices for weekend activities, or suggest ways to increase activity on weekends.  
